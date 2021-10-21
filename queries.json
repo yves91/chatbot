@@ -8,7 +8,7 @@
             "cancel": "I'd like to cancel a flight",
             "change": "I'd like to change a flight"
         },
-        "check-in": {
+        "checkin": {
             "check-in": "How do I check-in?",
             "check-in-error": "There's an error when I try to check in"
         },
@@ -16,11 +16,11 @@
             "purchase-baggage": "How do I purchase extra baggage?",
             "lost-baggage": "How do I report lost baggage?"
         },
-        "manage-booking":{
+        "managebooking":{
             "manage": "How do I access the Manage Booking platform?",
             "manage-booking-error": "There's an error when I try to access the Manage Booking platform"
         },
-        "travel-restrictions": {
+        "travelrestrictions": {
             "check-restrictions": "How do I check travel restrictions to a country?"
         },
         "ticket": {
