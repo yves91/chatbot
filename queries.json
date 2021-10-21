@@ -1,7 +1,7 @@
 [
     {
         "flights": {
-            "book": "I'd like to book a flight"[
+            "book": "I'd like to book a flight":[
                     "bookresponse": "See the link",
                     "noresponse": "Did this answer your question?"
                 ],
