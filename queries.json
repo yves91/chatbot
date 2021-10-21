@@ -1,13 +1,11 @@
 [
     {
-        "flights": {
-            "book": "I'd like to book a flight"[
+        "flights": 
+                [
+                    "book": "I'd like to book a flight"
                     "bookresponse": "See the link here",
                     "noresponse": "Did this answer your question?"
-                ],
-            "cancel": "I'd like to cancel a flight",
-            "change": "I'd like to change a flight"
-        },
+                ],          
         "checkin": {
             "check-in": "How do I check-in?",
             "check-in-error": "There's an error when I try to check in"
