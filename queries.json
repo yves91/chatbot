@@ -1,4 +1,9 @@
 {
-    flights: "I'd like to book a flight",
-    checkin: "How do I check-in?"
+activity: "Take your cat on a walk",
+type: "relaxation",
+participants: 1,
+price: 0.02,
+link: "",
+key: "5940465",
+accessibility: 0.1
 }
