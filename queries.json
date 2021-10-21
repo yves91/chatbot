@@ -1,7 +1,12 @@
-[   
+[
     {
         "flights": {
             "book": "I'd like to book a flight",
+            "bookresponse":[
+                {
+                    "respond": "Use the search panel at the tope of the page to book",
+                }
+            ],
             "cancel": "I'd like to cancel a flight",
             "change": "I'd like to change a flight"
         },
