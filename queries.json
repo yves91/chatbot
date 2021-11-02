@@ -1,40 +1,26 @@
 [
-    {
-        "flights": {           
-            "cancel": [
-                {   
-                    "id":"cancel[0]",
-                    "btnText":"How do I cancel a flight?",
-                    "respond": "If you purchased your ticket(s) on the Air Seychelles website, and wish to cancel segments of your journey, you may do so by using the Manage Booking feature in the search panel. Alternatively, you may cancel your flight by contacting the Air Seychelles Call Centre on +2484391000 or email us at callcentre@airseyhelles.com"
-                }
-            ],
-            "change": [
-                {
-                    "id":"change[0]",
-                    "respond": "If you purchased your ticket(s) on the Air Seychelles website, you may change your flight by using the Manage Booking feature in the search panel. Alternatively, you may change your flight by contacting the Air Seychelles Call Centre on +2484391000, or email us at callcentre@airseyhelles.com"
-                }
-            ]
-        },
-        "check-in": {
-            "check-in": "How do I check-in?",
-            "check-in-error": "There's an error when I try to check in"
-        },
-        "baggage": {
-            "purchase-baggage": "How do I purchase extra baggage?",
-            "lost-baggage": "How do I report lost baggage?"
-        },
-        "manage-booking":{
-            "manage": "How do I access the Manage Booking platform?",
-            "manage-booking-error": "There's an error when I try to access the Manage Booking platform"
-        },
-        "travel-restrictions": {
-            "check-restrictions": "How do I check travel restrictions to a country?"
-        },
-        "ticket": {
-            "receive": "I have not received my e-ticket or itinerary"
-        },
-        "payment": {
-            "error": "I'm getting an error when I try to make a purchase"
-        }
-    }
+    {     
+        "class":"flights",
+        "id":"cancel",
+        "btnText":"How do I cancel a flight?",
+        "respond": "If you purchased your ticket(s) on the Air Seychelles website, and wish to cancel segments of your journey, you may do so by using the Manage Booking feature in the search panel. Alternatively, you may cancel your flight by contacting the Air Seychelles Call Centre on +2484391000 or email us at callcentre@airseyhelles.com"
+    },
+    {   
+        "class":"flights",
+        "id":"change",
+        "btnText":"How do I change my flight?",
+        "respond": "If you purchased your ticket(s) on the Air Seychelles website, you may change your flight by using the Manage Booking feature in the search panel. Alternatively, you may change your flight by contacting the Air Seychelles Call Centre on +2484391000, or email us at callcentre@airseyhelles.com"
+    },
+    {   
+        "class":"baggage",
+        "id":"purchase-baggage",
+        "btnText":"How do I purchase extra baggage?",
+        "respond": "You may purchase extra baggage during the time of your booking on the ancillary page. You may also return to the website after you finish your initial ticket booking to buy additional baggage by logging into the Manage Booking platform. Alternatively, you may purchase additional baggage when you arrive at the airport. For more infortmation, please contact the Air Seychelles Call Centre on +2484391000, or email us at callcentre@airseyhelles.com"
+    },
+    {   
+        "class":"baggage",
+        "id":"lost-baggage",
+        "btnText":"My baggage is lost. How do I report this?",
+        "respond": "We apologise for your lost baggage. For more infortmation, please contact the Air Seychelles Call Centre on +2484391000, or email us at callcentre@airseyhelles.com"
+    }  
 ]
