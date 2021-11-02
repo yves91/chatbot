@@ -57,6 +57,6 @@
         "class":"restrictions",
         "id":"travel-restrictions",
         "btnText":"How do I check travel restrictions to a country?",
-        "respond": "To keep up to date with travel restrictions on the Air Seychelles network, please see our Travel Requirements page." 
+        "respond": "To keep up to date with travel restrictions on the Air Seychelles network, please see our <a href='https://www.airseychelles.com/en-sc/announcements/travelrequirements'>Travel Requirements page </a>." 
     }
 ]
