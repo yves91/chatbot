@@ -3,13 +3,13 @@
         "class":"flights",
         "id":"cancel",
         "btnText":"How do I cancel a flight?",
-        "respond": "If you purchased your ticket(s) on the Air Seychelles website, and wish to cancel segments of your journey, you may do so by using the Manage Booking feature in the search panel. Alternatively, you may cancel your flight by contacting the Air Seychelles Call Centre on +2484391000 or email us at callcentre@airseyhelles.com."
+        "respond": "If you purchased your ticket(s) on the Air Seychelles website, and wish to cancel segments of your journey, you may do so by using the Manage Booking feature in the search panel. Alternatively, you may cancel your flight by contacting the Air Seychelles Call Centre on +2484391000 or email us at callcentre@airseyhelles.com. Please note that not all flights are refundable as this is dependent on the Fare Rules of your purchase."
     },
     {   
         "class":"flights",
         "id":"change",
         "btnText":"How do I change my flight?",
-        "respond": "If you purchased your ticket(s) on the Air Seychelles website, you may change your flight by using the Manage Booking feature in the search panel. Alternatively, you may change your flight by contacting the Air Seychelles Call Centre on +2484391000, or email us at callcentre@airseyhelles.com."
+        "respond": "If you purchased your ticket(s) on the Air Seychelles website, you may change your flight by using the Manage Booking feature in the search panel. Alternatively, you may change your flight by contacting the Air Seychelles Call Centre on +2484391000, or email us at callcentre@airseyhelles.com. Please note that not all flights are refundable as this is dependent on the Fare Rules of your purchase."
     },
     {   
         "class":"baggage",
