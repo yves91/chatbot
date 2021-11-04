@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+#activity{
+    background: #0065A4; 
+    width: fit-content; 
+    padding: 15px; 
+    border-radius: 15px; 
+    color: #fff; 
+    margin: 10px 0px 10px 0px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#query{
+    padding: 12px;
+    border-radius: 15px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+}
+
+details > summary{
+    list-style: none;
+}
+
+#virtual-assistant{
+    position: fixed;
+    bottom: 0;
+    width: 45%;
+    max-height: 520px;
+    overflow: scroll;
+    box-shadow: 6px 6px 15px 0px #c3c3c3;
+}
+
+#hide-chat{
+    width: -webkit-fill-available;
+    background: #0065A4;    
+    color: #fff; 
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 20px 20px 0px 0px;
+    outline: none;
+}
+
+#hide-chat:hover,
+#activity:hover,
+#submit-query:hover
+{
+    background: #0065a4a1;
+}
+
+
+#hm-chat-nav{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background: #e3e3e3;
+    padding: 20px 0px 20px 0px;
+}
+
+#hm-chat{
+    display: none;
+}
+
+#submit-query{
+    background: #0065A4;    
+    color: #fff; 
+    padding: 12px; 
+    border-radius: 15px; 
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#hm-chat-title{
+    margin: 10px 0px 10px 0px;
+}
+
